@@ -26,5 +26,3 @@ Verilog source code  from three Logic Design project reports.
 - SCCS control integration
 - Full integrated system
 - Testbenches
-
-The code was recovered from report text and screenshots. Review `RECOVERY_NOTES.md` inside each project before compiling.
