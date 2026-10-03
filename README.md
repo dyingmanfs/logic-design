@@ -1,6 +1,6 @@
-# Recovered Logic Design Verilog Code
+#  Logic Design Verilog Code
 
-Verilog source code reconstructed from three Logic Design project reports.
+Verilog source code  from three Logic Design project reports.
 
 ## Included
 
